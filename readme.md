@@ -1,6 +1,13 @@
 
 # Indexed Planning Structure for AI-Assisted Software Builds
 
+Prompt
+→ Find the right index
+→ Load only the needed context
+→ Pass the gate
+→ Build the bounded task
+→ Review against the same docs
+
 This document describes a planning structure for building large software systems with AI agents, human review, and controlled implementation stages.
 
 The goal is simple:
